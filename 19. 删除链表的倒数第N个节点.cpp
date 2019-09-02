@@ -10,11 +10,11 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         
-        ListNode* eHead = new ListNode(0);
-        eHead->next = head;
+        ListNode* tHead = new ListNode(0);
+        tHead->next = head;
         
-        ListNode* fast = eHead;
-        ListNode* slow = eHead;
+        ListNode* fast = tHead;
+        ListNode* slow = tHead;
         
         while (n --)
             fast = fast->next;
@@ -24,10 +24,16 @@ public:
             slow = slow->next;
         }
         
-        ListNode* tNode = slow->next;
+        // 删除倒数第 n 个节点
+        ListNode* rnNode = slow->next;
         slow->next = slow->next->next;
-        delete tNode;
+        delete rnNode;
         
-        return eHead->next;
+        // 释放 tHead 防止内存泄漏
+        ListNode* dNode = tHead;
+        tHead = tHead->next;
+        delete dNode;
+        
+        return tHead;
     }
 };

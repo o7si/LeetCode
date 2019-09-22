@@ -1,3 +1,4 @@
+// 复杂度不满足 O(logn) 的要求
 class Solution {
 public:
     int search(vector<int>& nums, int target) {

@@ -7,9 +7,6 @@ public:
      
         sort(points.begin(), points.end());
 
-        for (int i = 0; i < points.size(); ++ i)
-            cout << points[i][0] << " " << points[i][1] << endl;
-
         int count = 1;
         int end = points[0][1];
         for (int i = 1; i < points.size(); ++ i) {

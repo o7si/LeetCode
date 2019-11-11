@@ -14,7 +14,6 @@ public:
     /** Removes the element on top of the stack and returns that element. */
     int pop() {
         
-        cout << "pop" << endl;
         assert(!empty());
         int count = data.size() - 1;
         while (count --) {
@@ -30,7 +29,7 @@ public:
     
     /** Get the top element. */
     int top() {
-        cout << "top" << endl;
+
         assert(!empty());
         return data.back();
     }

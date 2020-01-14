@@ -100,4 +100,3 @@
 | 498 | Diagonal Traverse | Medium | Algorithm |  |  |  |  |
 | 499 | The Maze III | Hard | Algorithm |  |  |  |  |
 | 500 | Keyboard Row | Easy | Algorithm |  |  |  |  |
-

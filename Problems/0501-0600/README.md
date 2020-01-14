@@ -20,7 +20,7 @@
 | 518 | Coin Change 2 | Medium | Algorithm |  |  |  |  |
 | 519 | Random Flip Matrix | Medium | Algorithm |  |  |  |  |
 | 520 | Detect Capital | Easy | Algorithm |  |  |  |  |
-| 521 | Longest Uncommon Subsequence I  | Easy | Algorithm |  |  |  |  |
+| 521 | Longest Uncommon Subsequence I | Easy | Algorithm |  |  |  |  |
 | 522 | Longest Uncommon Subsequence II | Medium | Algorithm |  |  |  |  |
 | 523 | Continuous Subarray Sum | Medium | Algorithm |  |  |  |  |
 | 524 | Longest Word in Dictionary through Deleting | Medium | Algorithm |  |  |  |  |
@@ -96,7 +96,7 @@
 | 594 | Longest Harmonious Subsequence | Easy | Algorithm |  |  |  |  |
 | 595 | Big Countries | Easy | Database |  |  |  |  |
 | 596 | Classes More Than 5 Students | Easy | Database |  |  |  |  |
-| 597 | Friend Requests I: Overall Acceptance Rate | Easy | Database |  |  |  |  |
+| 597 | Friend Requests I： Overall Acceptance Rate | Easy | Database |  |  |  |  |
 | 598 | Range Addition II | Easy | Algorithm |  |  |  |  |
 | 599 | Minimum Index Sum of Two Lists | Easy | Algorithm |  |  |  |  |
 | 600 | Non-negative Integers without Consecutive Ones | Hard | Algorithm |  |  |  |  |

@@ -100,4 +100,3 @@
 | 298 | Binary Tree Longest Consecutive Sequence | Medium | Algorithm |  |  |  |  |
 | 299 | Bulls and Cows | Easy | Algorithm |  |  |  |  |
 | 300 | Longest Increasing Subsequence | Medium | Algorithm |  |  |  |  |
-

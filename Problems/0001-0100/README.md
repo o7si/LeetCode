@@ -1,10 +1,10 @@
 | # | Title | Difficulty | Category | C | C++ | Python | Java |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Two Sum | Easy | Algorithm |  |  |  |  |
-| 2 | Add Two Numbers | Medium | Algorithm |  |  |  |  |
-| 3 | Longest Substring Without Repeating Characters | Medium | Algorithm |  |  |  |  |
+| 1 | Two Sum | Easy | Algorithm |  | [Solution](0001. Two Sum/C++/Solution.cpp) |  |  |
+| 2 | Add Two Numbers | Medium | Algorithm |  | [Solution](0002. Add Two Numbers/C++/Solution.cpp) |  |  |
+| 3 | Longest Substring Without Repeating Characters | Medium | Algorithm |  | [Solution](0003. Longest Substring Without Repeating Characters/C++/Solution.cpp) |  |  |
 | 4 | Median of Two Sorted Arrays | Hard | Algorithm |  |  |  |  |
-| 5 | Longest Palindromic Substring | Medium | Algorithm |  |  |  |  |
+| 5 | Longest Palindromic Substring | Medium | Algorithm |  | [Solution](0005. Longest Palindromic Substring/C++/Solution.cpp) |  |  |
 | 6 | ZigZag Conversion | Medium | Algorithm |  |  |  |  |
 | 7 | Reverse Integer | Easy | Algorithm |  |  |  |  |
 | 8 | String to Integer (atoi) | Medium | Algorithm |  |  |  |  |

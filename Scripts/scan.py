@@ -43,7 +43,7 @@ if __name__ == "__main__":
                     continue
                 lang_solution.append(solution_dir + file)
 
-            solutions[language] = lang_solution
+            solutions[language.lower()] = lang_solution
 
         return solutions
 

@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
         return solutions
 
-    file = open("./Data/problems.json", "r")
+    file = open("./Data/problems.json", "r", encoding="utf-8")
     problems = file.read()
     file.close()
 
@@ -63,6 +63,6 @@ if __name__ == "__main__":
 
     os.chdir("../")
     save = json.dumps(problems_solutions, sort_keys=True, indent=2, separators=(', ', ': '))
-    file = open("./Data/solutions.json", "w")
+    file = open("./Data/solutions.json", "w", encoding="utf-8")
     file.write(save)
     file.close()

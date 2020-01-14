@@ -3579,7 +3579,7 @@
     "category": "Database",
     "difficulty": "Easy",
     "id": "597",
-    "title": "Friend Requests I: Overall Acceptance Rate"
+    "title": "Friend Requests I： Overall Acceptance Rate"
   },
   {
     "category": "Algorithm",
@@ -3609,7 +3609,7 @@
     "category": "Database",
     "difficulty": "Medium",
     "id": "602",
-    "title": "Friend Requests II: Who Has the Most Friends"
+    "title": "Friend Requests II： Who Has the Most Friends"
   },
   {
     "category": "Database",
@@ -3687,7 +3687,7 @@
     "category": "Database",
     "difficulty": "Hard",
     "id": "615",
-    "title": "Average Salary: Departments VS Company"
+    "title": "Average Salary： Departments VS Company"
   },
   {
     "category": "Algorithm",
@@ -4707,7 +4707,7 @@
     "category": "Algorithm",
     "difficulty": "Medium",
     "id": "785",
-    "title": "Is Graph Bipartite?"
+    "title": "Is Graph Bipartite？"
   },
   {
     "category": "Algorithm",

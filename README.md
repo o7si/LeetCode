@@ -1,5 +1,12 @@
 # LeetCode
 
-## 说明
+## 使用说明
 
-🐌 我是一只小蜗牛，一步一步往前爬，只要一直坚持下去，总有一天会把 LeetCode 上的题目刷完的。
+1. 扫描仓库并更新相关信息：python Scripts/update.py
+
+2. 查看题解：python Scripts/view-solution.py -n <题目编号> -l <语言>
+
+```
+# 示例：查看第 1 题的 C++ 题解
+python Scripts/view-soluton.py -n 1 -l C++
+```
